@@ -1,16 +1,4 @@
-# expense_tracker
+# Expense_Tracker_Video
 
-A new Flutter project.
+ https://github.com/emir-emir/Expense-Tracking-App-Gider-Takip/assets/69528988/8bd74d54-5760-434f-8271-c23de637c317
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
